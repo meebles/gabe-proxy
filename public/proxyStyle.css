@@ -1,0 +1,18 @@
+html {
+  font-family: "Noto Sans", sans-serif;
+}
+
+#product-container {
+  margin: auto;
+  display: flex;
+  width: 100vw;
+  max-width: 1200;
+}
+
+#m_root {
+  width: 60% !important;
+}
+
+#root {
+  width: 40% !important;
+}
