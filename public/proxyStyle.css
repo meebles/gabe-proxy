@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+}
+
+#product-container {
+  margin: auto;
+  display: flex;
+  width: 100vw;
+  max-width: 1200;
+}

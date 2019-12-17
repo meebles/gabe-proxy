@@ -1,0 +1,23 @@
+{
+  "name": "gabriel-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server for student web app project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabe-Lee/Gabriel-Proxy.git"
+  },
+  "author": "Gabriel Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabe-Lee/Gabriel-Proxy/issues"
+  },
+  "homepage": "https://github.com/Gabe-Lee/Gabriel-Proxy#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
